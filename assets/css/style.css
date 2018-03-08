@@ -3,3 +3,7 @@
     height: 100%;
     position:fixed;
 }
+
+.image-margins {
+    margin-bottom: 20px;
+}
